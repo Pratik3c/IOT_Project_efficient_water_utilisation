@@ -61,7 +61,7 @@ By utilizing **Blynk App**, users can remotely monitor and control water levels 
      ```
 
 2. **Upload the Code**  
-   - Open `AquaSense.ino` in **Arduino IDE**.  
+   - Open `final_cp.ino` in **Arduino IDE**.  
    - Update **WiFi credentials** and **Blynk authentication key** in the code.  
    - Select **NodeMCU 1.0 (ESP8266)** as the board.  
    - Upload the code to the NodeMCU.  
@@ -77,7 +77,7 @@ Download the **Blynk App** from:
 
 ### **Step 2: Create a New Project**  
 1. Open **Blynk App** and create a new account (or log in).  
-2. Tap **"New Project"**, give it a name (e.g., **AquaSense**).  
+2. Tap **"New Project"**, give it a name (e.g., **AquaTrack**).  
 3. Select **NodeMCU** as the device.  
 4. Choose **WiFi** as the connection type.  
 5. Tap **"Create"** – You will receive an **Auth Token** via email.  
